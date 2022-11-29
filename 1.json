@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://lehootv.com/api.php/provide/vod/",
+      "name": "✨乐活影视"
+    },
+    {
+      "url": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "✨闪电资源"
+    }
+  ]
+}
