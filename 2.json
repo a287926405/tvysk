@@ -1,0 +1,11 @@
+{
+	"urls": [{
+			"url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
+			"name": "✨线路3"
+		},
+		{
+			"url": "http://home.jundie.top:81/top98.json",
+			"name": "✨线路4"
+		}
+	]
+}
